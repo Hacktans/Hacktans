@@ -43,8 +43,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacktans&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktans&layout=compact&theme=dark" alt="Top Languages" />
+  <a href="https://github.com/Hacktans">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hacktans&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Hacktans">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktans&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
