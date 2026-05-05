@@ -32,7 +32,7 @@
 
 ### 📂 Featured Projects (42 Curriculum)
 
--  پو **[Minishell](https://github.com/Hacktans/42_Minishell)**: A custom UNIX shell replicating Bash functionalities, including pipelines, environment variables, and redirections.
+- 🐚 **[Minishell](https://github.com/Hacktans/42_Minishell)**: A custom UNIX shell replicating Bash functionalities, including pipelines, environment variables, and redirections.
 - 🎮 **[Cub3D](https://github.com/Hacktans/42_cub3d)**: A 3D game engine built from scratch using Raycasting algorithms and miniLibX.
 - 🧠 **[Philosophers](https://github.com/Hacktans/42_Philosopers)**: Solving the Dining Philosophers problem using multithreading and mutexes to prevent data races and deadlocks.
 - 📊 **[Push_swap](https://github.com/Hacktans/42_Pushswap)**: Advanced data sorting algorithms minimizing moves using two stacks and strict algorithmic complexity limits.
@@ -43,8 +43,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacktans&show_icons=true&theme=tokyonight" alt="Hacktans's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktans&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hacktans&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktans&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
