@@ -28,18 +28,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 📂 Featured Projects (42 Curriculum)
-
-- 🐚 **[Minishell](https://github.com/Hacktans/42_Minishell)**: A custom UNIX shell replicating Bash functionalities, including pipelines, environment variables, and redirections.
-- 🎮 **[Cub3D](https://github.com/Hacktans/42_cub3d)**: A 3D game engine built from scratch using Raycasting algorithms and miniLibX.
-- 🧠 **[Philosophers](https://github.com/Hacktans/42_Philosopers)**: Solving the Dining Philosophers problem using multithreading and mutexes to prevent data races and deadlocks.
-- 📊 **[Push_swap](https://github.com/Hacktans/42_Pushswap)**: Advanced data sorting algorithms minimizing moves using two stacks and strict algorithmic complexity limits.
-- 🏗️ **[C++ Modules](https://github.com/Hacktans/42_CPP_Module00--04)**: Comprehensive OOP architectures exploring inheritance, polymorphism, abstract classes, and templates.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
